@@ -53,7 +53,7 @@
             <feature name="StatusBar">
                 <param name="ios-package" value="CDVStatusBar" onload="true" />
             </feature>
-            <preference name="StatusBarOverlaysWebView" value="true" />
+            <preference name="StatusBarOverlaysWebView" value="false" />
             <preference name="StatusBarStyle" value="lightcontent" />
         </config-file>
 
